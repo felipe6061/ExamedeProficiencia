@@ -33,14 +33,10 @@ body {
 
 .nav-link {
     color: #fff;
-    text-decoration: none;
-    transition: color 0.3s, transform 0.3s;
+
 }
 
-.nav-link:hover {
-    text-decoration: underline;
-    transform: scale(1.1);
-}
+
 
 .main-container {
     padding: 20px;
